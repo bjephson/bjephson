@@ -2,7 +2,7 @@
 
 I'm Brett and I'm a Senior Frontend Developer. 
 
-- 🔭 I’m currently working on JustGiving Integration in Re:NXT.
+🔭 I’m currently working on JustGiving Integration in Re:NXT.
 
 <!--
 **bjephson/bjephson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
