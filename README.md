@@ -2,7 +2,8 @@
 
 I'm Brett and I'm a Senior Frontend Developer. 
 
-🔭  I’m currently working on JustGiving Integration in Re:NXT.
+🏠  House of Pages - Crossbones team.
+🔭  I'm currently working on Customer Authentication.
 
 <!--
 **bjephson/bjephson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
