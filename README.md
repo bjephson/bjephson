@@ -2,7 +2,7 @@
 
 I'm Brett and I'm a Senior Frontend Developer. 
 
-🏠  House of Pages - Crossbone team.
+🏠 Crossbone team.
 
 <!--
 **bjephson/bjephson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
